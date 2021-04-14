@@ -1,0 +1,8 @@
+site_name: ITCR Documentation Template
+nav:
+    - Getting Started: getting-started.md
+    - How-to Examples: how-to-examples.md
+    - Reference Guide: reference-guide.md
+    - Source code: https://github.com/jhudsl/ITCR_Documentation_and_Usability
+    - Feedback: 
+theme: readthedocs
