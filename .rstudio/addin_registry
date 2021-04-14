@@ -1,0 +1,137 @@
+{
+    "bookdown::mathquill": {
+        "name": "Input LaTeX Math",
+        "package": "bookdown",
+        "title": "",
+        "description": "Input math expressions via the MathQuill library.",
+        "interactive": true,
+        "binding": "mathquill",
+        "ordinal": 2
+    },
+    "bookdown::serve_book": {
+        "name": "Preview Book",
+        "package": "bookdown",
+        "title": "",
+        "description": "Run bookdown::serve_book() to live preview a book.",
+        "interactive": true,
+        "binding": "serve_book",
+        "ordinal": 1
+    },
+    "clipr::clipr_output": {
+        "name": "Output to clipboard",
+        "package": "clipr",
+        "title": "",
+        "description": "Copies the console output of a selected expression to the system clipboard",
+        "interactive": false,
+        "binding": "clipr_output",
+        "ordinal": 12
+    },
+    "clipr::clipr_result": {
+        "name": "Value to clipboard",
+        "package": "clipr",
+        "title": "",
+        "description": "Copies the results of a selected expression to the system clipboard",
+        "interactive": false,
+        "binding": "clipr_result",
+        "ordinal": 11
+    },
+    "covr::addin_report": {
+        "name": "Calculate package test coverage",
+        "package": "covr",
+        "title": "",
+        "description": "Calculates the package test coverage and opens a report, using `covr::report()`",
+        "interactive": false,
+        "binding": "addin_report",
+        "ordinal": 13
+    },
+    "devtools::document": {
+        "name": "Document a package",
+        "package": "devtools",
+        "title": "",
+        "description": "A wrapper for `roxygen`'s `roxygen2::roxygenize()`",
+        "interactive": false,
+        "binding": "document",
+        "ordinal": 10
+    },
+    "devtools::test_coverage": {
+        "name": "Report test coverage for a package",
+        "package": "devtools",
+        "title": "",
+        "description": "Calculate and report the test coverage for the current package, using `devtools::test_coverage()`.",
+        "interactive": false,
+        "binding": "test_coverage",
+        "ordinal": 9
+    },
+    "devtools::test_coverage_file": {
+        "name": "Report test coverage for a file",
+        "package": "devtools",
+        "title": "",
+        "description": "Calculate and report test coverage for the current test file, using `devtools::test_coverage_file()`.",
+        "interactive": false,
+        "binding": "test_coverage_file",
+        "ordinal": 8
+    },
+    "devtools::test_file": {
+        "name": "Run a test file",
+        "package": "devtools",
+        "title": "",
+        "description": "Run the current test file, using `devtools::test_file()`.",
+        "interactive": false,
+        "binding": "test_file",
+        "ordinal": 7
+    },
+    "reprex::reprex_addin": {
+        "name": "Render reprex...",
+        "package": "reprex",
+        "title": "",
+        "description": "Run `reprex::reprex()` to prepare a reproducible example for sharing.",
+        "interactive": true,
+        "binding": "reprex_addin",
+        "ordinal": 14
+    },
+    "reprex::reprex_selection": {
+        "name": "Reprex selection",
+        "package": "reprex",
+        "title": "",
+        "description": "Prepare reprex from current selection",
+        "interactive": false,
+        "binding": "reprex_selection",
+        "ordinal": 15
+    },
+    "styler::set_style_transformers": {
+        "name": "Set style",
+        "package": "styler",
+        "title": "",
+        "description": "Prompt for and set the style transformers used by all styler addins",
+        "interactive": true,
+        "binding": "set_style_transformers",
+        "ordinal": 3
+    },
+    "styler::style_active_file": {
+        "name": "Style active file",
+        "package": "styler",
+        "title": "",
+        "description": "Pretty-print active file",
+        "interactive": true,
+        "binding": "style_active_file",
+        "ordinal": 5
+    },
+    "styler::style_active_pkg": {
+        "name": "Style active package",
+        "package": "styler",
+        "title": "",
+        "description": "Pretty-print active package",
+        "interactive": true,
+        "binding": "style_active_pkg",
+        "ordinal": 6
+    },
+    "styler::style_selection": {
+        "name": "Style selection",
+        "package": "styler",
+        "title": "",
+        "description": "Pretty-print selection",
+        "interactive": true,
+        "binding": "style_selection",
+        "ordinal": 4
+    }
+}
