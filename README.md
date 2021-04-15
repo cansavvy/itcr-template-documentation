@@ -5,7 +5,7 @@ This is a companion tool for the creating your own documentation for an informat
 To see a preview of what this demo documentation website looks like go here:
 http://jhudatascience.org/itcr-template-documentation/
 
-### To get started:
+### To get started with this repository:
 
 - Click `Use this Template` to get started.  
 - Name your repository something that relates to your tool.  
@@ -21,3 +21,8 @@ _On your computer's command line_:
 - When you are ready to publish your documentation to its own website, run [`mkdocs gh-deploy`](https://www.mkdocs.org/user-guide/deploying-your-docs/), it will return the web address of your new site.
 - Go to the address it returned and bask in the success of your newly made documentation!  
 - Make sure to add plenty of links to this documentation to your Github repository for your tool or your tools' GUI.
+
+### Using the template files individually:
+
+- Download the [folder of template files here]().  
+- 

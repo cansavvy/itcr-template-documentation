@@ -18,3 +18,9 @@
   - [ ] All parameters are described and defaults explained.  
   - [ ] Any input file formats are described (example file format included is ideal).  
   - [ ] Any output file formats are described.  
+
+## Cheatsheet ideas:
+
+For inspiration and examples of nice cheatsheets, take a look through [RStudio's cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
+If you use Overleaf, there are [template cheatsheets you can use here](https://www.overleaf.com/gallery/tagged/cheat-sheet).
