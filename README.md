@@ -24,5 +24,9 @@ _On your computer's command line_:
 
 ### Using the template files individually:
 
-- Download the [folder of template files here]().  
-- 
+TODO: Add link to zipped up version of the templates folder
+
+- Download the [folder of template files here]().    
+- Complete each markdown template, filling in the blanks as you go along with the course.  
+- File a pull request to your own repository to add these files.  
+- (Optional but encouraged) [Publish your repository to Github Pages](https://guides.github.com/features/pages/).    
