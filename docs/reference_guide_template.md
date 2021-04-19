@@ -1,9 +1,10 @@
-# [Reference Guides](Link to chapter)
-[Download a template document for a Reference Guide](Link to template doc)
+# [Reference Guides](https://jhudatascience.org/ITCR_Documentation_and_Usability/creating-a-handy-reference-guide.html)
+
+_This section's checklist:_  
 
 - [ ] Is easy to find: clearly visible on the main page.  
 - [ ] Is searchable or at least visually easily able to be scanned.  
-- [ ] All items are described in clear language:  
+- [ ] All items are described in clear language.
 
 ### [Command line items](Link to subsection of chapter about command line ref docs)
   - [ ] All functions are described.  
