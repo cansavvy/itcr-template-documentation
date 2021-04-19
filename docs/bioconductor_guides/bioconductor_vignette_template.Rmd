@@ -13,11 +13,16 @@ vignette: >
 # Introduction
 
 What is this vignette going to demonstrate about your tool?
-Add links to your package and other relevant information. 
+Add links to your package and other relevant information.
 What background information should your user know?
 
 From Bioconductor about this section:
 > Add an “Introduction” section that serves as an abstract to introduce the objective, models, unique functions, key points, etc that distinguish the package from other packages of similar type.
+
+_More info_:  
+
+- [Bioconductor's vignette guidance](https://www.bioconductor.org/developers/package-guidelines/#Vignettes).  
+- Guidance from [Oles et al, 2021](https://bioconductor.org/packages/devel/bioc/vignettes/BiocStyle/inst/doc/AuthoringRmdVignettes.html) on creating Bioconductor R Markdown vignettes.
 
 # Installation
 

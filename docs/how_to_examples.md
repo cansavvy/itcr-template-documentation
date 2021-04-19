@@ -1,4 +1,4 @@
-# [How-to Examples/Vignettes](https://jhudatascience.org/ITCR_Documentation_and_Usability/creating-a-helpful-how-to-examples.html)
+# [How-to Examples/Vignettes](https://jhudatascience.org/ITCR_Documentation_and_Usability/creating-helpful-how-to-examples.html)
 
 _Checklist for this section:_
 
@@ -13,5 +13,9 @@ _Checklist for this section:_
 
 ## Specific Examples
 
-- Bioconductor example
-- Bash script example
+If your tool's destination is Bioconductor or Galaxy, see our specific guidance on those repositories' examples:  
+
+- [Bioconductor vignette example](./bioconductor_guides/bioconductor_vignette_template.Rmd)
+- [Galaxy vignette example](https://training.galaxyproject.org/training-material/topics/contributing/tutorials/create-new-tutorial/tutorial.html)
+
+### General Example
