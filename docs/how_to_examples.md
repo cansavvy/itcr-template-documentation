@@ -11,4 +11,7 @@ _Checklist for this section:_
   - [ ] An example dataset needed is provided and introduced.  
   - [ ] No additional packages and software are required beyond what is installed in the `Getting Started`.  
 
-## 
+## Specific Examples
+
+- Bioconductor example
+- Bash script example
