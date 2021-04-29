@@ -14,7 +14,6 @@ _On your computer's command line_:
 - [`git clone` your new repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) you made from our template.   
 - Navigate to your the root of your local version of this repository.   
 - [Install mkdocs following their instructions.](https://www.mkdocs.org/#installation).  
-- Run `mkdocs new my-project` but put replace `my-project` with whatever you'd like your project name to be.
 - Run `mkdocs serve` to see a preview of your docs   
 - Edit the template pages we've provided in the `docs/` folder to pertain to your own tool.  
 - As you make changes you can run `mkdocs build` and then `mkdocs serve` to see a preview.  
