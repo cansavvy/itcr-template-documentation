@@ -21,11 +21,10 @@ _On your computer's command line_:
 - Go to the address it returned and bask in the success of your newly made documentation!  
 - Make sure to add plenty of links to this documentation to your Github repository for your tool or your tools' GUI.
 
+As you continue to edit your documentation, continue to use `mkdocs serve` to see a preview and `mkdocs gh-deploy` to publish your changes to your website.
+
 ### Using the template files individually:
 
-TODO: Add link to zipped up version of the templates folder
-
-- Download the [folder of template files here]().    
+- Download the [folder of template files here](https://raw.githubusercontent.com/jhudsl/itcr-template-documentation/master/templates.zip) and the checklist itself [here](https://raw.githubusercontent.com/jhudsl/itcr-template-documentation/master/docs/well_documented_checklist.md).
 - Complete each markdown template, filling in the blanks as you go along with the course.  
 - File a pull request to your own repository to add these files.  
-- (Optional but encouraged) [Publish your repository to Github Pages](https://guides.github.com/features/pages/).    
