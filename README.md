@@ -1,9 +1,9 @@
 # ITCR Template Documentation
 
-This is a companion tool for the creating your own documentation for an informatics tool following our [ITCR Documentation and Usability course](https://jhudatascience.org/ITCR_Documentation_and_Usability/) as a part of an [ITCR training series](https://www.itcrtraining.org/).
+This is a companion tool for the creating your own documentation for an informatics tool following our [Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/) as a part of an [ITCR training series](https://www.itcrtraining.org/).
 
 To see a preview of what this demo documentation website looks like go here:
-http://jhudatascience.org/itcr-template-documentation/
+http://jhudatascience.org/template-documentation/
 
 ### To get started with this repository:
 
